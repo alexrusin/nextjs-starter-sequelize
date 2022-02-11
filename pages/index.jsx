@@ -24,6 +24,9 @@ export default function Home() {
           <Link href="/counter">
             <a>Counter</a>
           </Link>
+          <Link href="/users">
+            <a>Users</a>
+          </Link>
         </div>
 
         <p className={`${styles.description} font-quinto text-fresh`}>
